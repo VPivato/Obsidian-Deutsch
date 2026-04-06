@@ -22,3 +22,5 @@
 |               | sie ist  |          |            |
 |               | es ist   |          |            |
 
+#### Conexões
+[[Nominativ-Personalpronomen]]

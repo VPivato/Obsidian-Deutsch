@@ -1,4 +1,4 @@
-#grammatik
+#grammatik #nominativ
 
 |               | Singular                   | Plural | Formalität |
 | ------------- | -------------------------- | ------ | ---------- |

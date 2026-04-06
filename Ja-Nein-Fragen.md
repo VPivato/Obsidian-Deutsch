@@ -3,6 +3,7 @@
 
 > [!Estrutura]
 > Quando a pergunta pode ser respondida com Ja ou Nein, o verbo vem na primeira posição e o sujeito à direita.
+> Para mais informações sobre posição verbal, vide [[Verbstellung]]
 
 - Sind Sie verheiratet?
   _Você é casado?_

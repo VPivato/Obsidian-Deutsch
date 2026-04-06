@@ -12,7 +12,8 @@
 | Wie viele? | Quanto? Quantidade de coisas contáveis.         |
 
 > [!Estrutura]
-> Estrutura básica de frases interrogativas: quando se usa uma W-Fragen, o sujeito vai ao lado direito do verbo.
+> Quando uma frase começa com uma W-Fragen, o verbo fica na **segunda posição** e o sujeito imediatamente à direita.
+> Para mais informações sobre posição verbal, vide [[Verbstellung]]
 > Ex.: Wo Wohnen _Sie_? <small>(Onde você mora?)</small>
 
 ### Wie - informação

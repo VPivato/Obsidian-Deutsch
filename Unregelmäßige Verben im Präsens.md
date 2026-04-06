@@ -35,7 +35,7 @@ As seguintes mudanças de vogais podem acontecer:
 - Waschen - du wäschst, er wäscht
 
 #### Verben mit Vokalwechsel (i - ei)
-- Wissen - ich weiß, du du weißt, er weiß
+- Wissen - ich weiß, du weißt, er weiß
 
 
 [^1]: Vide: [[Verbstruktur]]
