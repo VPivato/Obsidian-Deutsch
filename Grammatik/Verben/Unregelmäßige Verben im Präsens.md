@@ -2,6 +2,7 @@
 
 Para a conjugação de verbos irregulares no presente, além da parte final (**Endung**[^1]) variar, também ocorre a troca de vogais no radical (**Verbstamm**[^1]).
 No geral, apenas os pronomes "du" e "er/sie/es" alteram o radical verbal. Mas também há casos em que a primeira pessoa do singular se torna diferente, como no verbo "wissen" (ich weiß).
+Infelizmente, não há método 100% confiável para descobrir se um verbo é irregular sem conhecimento prévio, deve-se memorizar os principais que aparecem o tempo todo — e não são muitos.
 
 ### Vokalwechsel
 As seguintes mudanças de vogais podem acontecer:
@@ -37,5 +38,6 @@ As seguintes mudanças de vogais podem acontecer:
 #### Verben mit Vokalwechsel (i - ei)
 - Wissen - ich weiß, du weißt, er weiß
 
+Para conjugação de verbos regulares, vide [[Regelmäßige Verben im Präsens]]
 
 [^1]: Vide: [[Verbstruktur]]

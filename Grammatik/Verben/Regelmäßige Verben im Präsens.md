@@ -45,4 +45,6 @@ Um exemplo com o verbo "Wohnen":
 
 Ambos os casos especiais 2 e 3 ocorrem porque a fonética alemã evita encontros consonantais impronunciáveis.
 
+Para conjugação de verbos irregulares, vide [[Unregelmäßige Verben im Präsens]]
+
 [^1]: Vide: [[Verbstruktur]]

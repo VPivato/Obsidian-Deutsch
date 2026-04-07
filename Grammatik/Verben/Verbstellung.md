@@ -10,7 +10,7 @@ Em alemão, com exceção de alguns casos, o verbo fica na **segunda posição**
 Ao fazer perguntas que podem ser respondidas com **sim** ou **não** ([[Ja-Nein-Fragen]]), o verbo fica na **primeira posição**:
 > **Sehe** ich die Sterne?
 > **Bist** du müde?
-> **Lesen** wir der Text?
+> **Lesen** wir den Text?
 
 Ao usar pronomes interrogativos que começam com W ([[W-Fragen]]), o verbo fica na **segunda posição**, note que essas perguntas não podem ser respondidas apenas com _Ja oder Nein_:
 > Wo **wohnst** du?

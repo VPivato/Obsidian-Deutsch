@@ -7,6 +7,7 @@
 | **neutrum**  |   kein   | keine  |
 
 Os _Negative Artikel_ dependem dos _Bestimmte und Unbestimmte Artikel_[^1][^2]. Assim como os artigos definidos, o plural é sempre o mesmo — **keine**.
+Usado para negar **substantivos**.
 
 - Ist das ein Bleistift?
   _Isto é um lápis?_

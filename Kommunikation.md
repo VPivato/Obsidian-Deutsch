@@ -2,4 +2,4 @@
 
 ### Conversa básica:
 [[Sich vorstellen]]
-[[Jemanden Kennenlernen]]
+[[Jemanden kennenlernen]]

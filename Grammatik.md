@@ -1,13 +1,12 @@
 #indexnotiz #grammatik
 
-[[Nominativ-Personalpronomen]]
+[[Nominativ]]
+[[Akkusativ]]
+
+[[Verbkonjugation]]
+
 [[W-Fragen]]
 [[Ja-Nein-Fragen]]
-[[Haben & Sein]]
-[[Verbstruktur]]
-[[Verbstellung]]
-[[Regelmäßige Verben im Präsens]]
-[[Unregelmäßige Verben im Präsens]]
-[[Bestimmte Artikel im Nominativ]]
-[[Unbestimmte Artikel im Nominativ]]
-[[Negative Artikel im Nominativ]]
+
+[[Negation im Deutschen]] - to do, explicar a palavra **nicht**
+[[Nicht vs Kein]] - possível nota, ainda a decidir se é útil

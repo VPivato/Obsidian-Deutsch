@@ -1,4 +1,4 @@
-#grammatik
+#grammatik #verben
 
 ### Haben
 
@@ -21,6 +21,3 @@
 | **3. Person** | er ist   | sie sind |            |
 |               | sie ist  |          |            |
 |               | es ist   |          |            |
-
-#### Conexões
-[[Nominativ-Personalpronomen]]
