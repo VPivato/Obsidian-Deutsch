@@ -20,3 +20,6 @@ Para mais informações sobre os artigos definidos, indefinidos e de negação n
 [[Bestimmte Artikel im Akkusativ]]
 [[Unbestimmte Artikel im Akkusativ]]
 [[Negative Artikel im Akkusativ]]
+
+Para mais informações sobre as preposições no caso acusativo, vide:
+[[Akkusativ-Präpositionen]]

@@ -10,7 +10,7 @@
 |               | ihm <small>(neutro)</small> |        |            |
 
 ### 1. Person
-- Er hilt **mir**.
+- Er hilft **mir**.
   _Ele me ajuda._
 - Der Lehrer erklärt **uns** die Regel.
   _O professor explica a regra para nós._

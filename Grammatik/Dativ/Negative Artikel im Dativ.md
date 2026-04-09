@@ -15,4 +15,4 @@
 
 > [!Atenção]
 > No dativo plural, o substantivo quase sempre ganha um _-n_ no final.
-> Ex.: Kinder**n**, Leute**n**, Freude**n**.
+> Ex.: Kinder**n**, Leute**n**, Freunde**n**.

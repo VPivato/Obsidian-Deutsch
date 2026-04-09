@@ -19,7 +19,7 @@ Tabela para revisão rápida sobre os **artigos de negação**[^1] em cada caso 
 
 **Zweite Regel**: a segunda regra dita que deve-se usar _kein_ junto a substantivos sem artigo.
 > Sind das Tomaten?
-> Nein, das ist _keine_ Tomaten
+> Nein, das sind _keine_ Tomaten
 
 **Dritte Regel**: a terceira regra dita que deve-se usar _kein_ junto a adjetivos atributivos[^3].
 > Ist das ein neues Buch?
@@ -31,7 +31,7 @@ Tabela para revisão rápida sobre os **artigos de negação**[^1] em cada caso 
 
 **Erste Regel**: deve-se usar _nicht_ junto a verbos.
 > Ich verstehe das _nicht_.
-> Sie geht _nicht_ das Hause.
+> Sie geht _nicht_ nach Hause.
 
 **Zweite Regel**: deve-se usar _nicht_ junto a adjetivos.
 > Das Sofa ist _nicht_ billig.
