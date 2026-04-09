@@ -1,4 +1,4 @@
-#grammatik #nominativ
+#grammatik #pronomen #nominativ
 
 |               | Singular                   | Plural | Formalität |
 | ------------- | -------------------------- | ------ | ---------- |

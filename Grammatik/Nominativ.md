@@ -14,7 +14,7 @@ Por exemplo:
 **Wer** oder **was** sitzt auf dem Stuhl? Der Junge.
 
 > [!Regra gramatical]
-> Uma regra fundamental na gramática alemã, é que **o sujeito sempre está no Nominativ**. São os outros elementos — objeto direto, indireto, etc. — que mudam para [[Akkusativ]], Dativ e Genitiv.
+> Uma regra fundamental na gramática alemã, é que **o sujeito sempre está no Nominativ**. São os outros elementos — objeto direto, indireto, etc. — que mudam para Akkusativ, Dativ e Genitiv.
 > 
 > Ex.: **Der Mann** sieht den Hund.
 > Der Mann > Subjekt im Nominativ

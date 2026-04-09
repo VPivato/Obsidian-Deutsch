@@ -1,4 +1,4 @@
-#grammatik #akkusativ 
+#grammatik #pronomen #akkusativ 
 
 |               | Singular                   | Plural | Formalität |
 | ------------- | -------------------------- | ------ | ---------- |
@@ -20,6 +20,10 @@
   _Sim, eu te vejo._
 - Ja, ich rufe euch an.
   _Sim, vou ligar para vocês._
+- Ich sehe Sie.
+  _Eu vejo o senhor / a senhora._
+- Wir begrüßen Sie.
+  _Nós cumprimentamos os senhores / as senhoras._
 
 ### 3. Person
 - Magst du Hans? Nein, ich mag ihn nicht.

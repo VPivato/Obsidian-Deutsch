@@ -28,4 +28,4 @@ Quando um verbo tem um prefixo — como _einkaufen_, por exemplo — esse prefix
 > **Kaufst** du samstags **ein**?
 
 
-[^1]: Verbo conjugado: é um verbo que muda para indicar gênero, tempo, número e outros aspectos da frase. Para mais informações, vide [[Verbkonjugation]] (nota a criar).
+[^1]: Verbo conjugado: é um verbo que muda para indicar gênero, tempo, número e outros aspectos da frase. Para mais informações, vide [[Verbkonjugation]]

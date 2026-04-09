@@ -1,4 +1,4 @@
-#grammatik #kasus #akkusativ
+#indexnotiz #grammatik #kasus #akkusativ
 
 Um dos quatro casos gramaticais do alemão, indica **quem** ou **o que** _sofre_ a ação do verbo. É a resposta para a pergunta:
 > Wen oder Was?
@@ -17,4 +17,6 @@ Para mais informações sobre os pronomes pessoais no caso acusativo, vide:
 [[Akkusativ-Personalpronomen]]
 
 Para mais informações sobre os artigos definidos, indefinidos e de negação no caso acusativo, vide:
-[[Artikel im Akkusativ]]
+[[Bestimmte Artikel im Akkusativ]]
+[[Unbestimmte Artikel im Akkusativ]]
+[[Negative Artikel im Akkusativ]]

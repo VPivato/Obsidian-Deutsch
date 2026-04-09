@@ -1,10 +1,8 @@
 #grammatik #artikel #nominativ
 
-|              | Singular | Plural |
-| ------------ | :------: | :----: |
-| **maskulin** |   kein   | keine  |
-| **feminin**  |  keine   | keine  |
-| **neutrum**  |   kein   | keine  |
+| Maskulin | Feminin | Neutrum | Plural |
+| -------- | ------- | ------- | ------ |
+| kein     | keine   | kein    | keine  |
 
 Os _Negative Artikel_ dependem dos _Bestimmte und Unbestimmte Artikel_[^1][^2]. Assim como os artigos definidos, o plural é sempre o mesmo — **keine**.
 Usado para negar **substantivos**.
