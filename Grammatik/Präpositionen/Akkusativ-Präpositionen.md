@@ -1,8 +1,12 @@
 #grammatik #präpositionen #akkusativ
 
+Essas preposições sempre regem o [[Akkusativ]], isso significa que o substantivo ou pronome que vem depois delas deve estar nesse caso gramatical.
+Ex.: Das Geschenk ist für **den Mann** <small>(não der Mann)</small>
+
 - - -
+
 ### Bis - até
-- Morgen schlafe ich **bis** zehn Ur.
+- Morgen schlafe ich **bis** zehn Uhr.
   _Amanhã eu vou dormir até dez da manhã._
 - **Bis** Morgen!
   _Até amanhã!_

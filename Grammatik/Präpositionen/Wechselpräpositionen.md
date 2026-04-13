@@ -26,7 +26,7 @@ A palavra "in" usada como preposição de tempo **sempre** se refere ao futuro.
   _A caneta está próxima ao livro._
 
 ### Über - acima
-- Die Lamp ist über <span style="color:lightgreen">dem Tisch</span>.
+- Die Lampe ist über <span style="color:lightgreen">dem Tisch</span>.
   _A lâmpada está acima da mesa._
 
 ### Unter - debaixo

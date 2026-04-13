@@ -27,5 +27,5 @@ Para mais informações sobre os artigos definidos, indefinidos e de negação n
 [[Unbestimmte Artikel im Dativ]]
 [[Negative Artikel im Dativ]]
 
-Para mais informações sobre as preposições no caso acusativo, vide:
+Para mais informações sobre as preposições no caso dativo, vide:
 [[Dativ-Präpositionen]]

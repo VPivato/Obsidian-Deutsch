@@ -1,6 +1,10 @@
 #grammatik #präpositionen #dativ
 
+Essas preposições sempre regem o [[Dativ]], isso significa que o substantivo ou pronome que vem depois delas deve estar nesse caso gramatical.
+Ex.: Ich fahre mit **dem Bus** <small>(não der Bus)</small>
+
 - - -
+
 ### Ab - a partir
 - Max lernt **ab** 14 Uhr Deutsch.
   _Max aprende alemão a partir das 14 horas._
@@ -14,7 +18,7 @@
   _Maria vem da Espanha._
 
 ### Bei - na / para
-- Jim arbeite **bei** der Polizei.
+- Jim arbeitet **bei** der Polizei.
   _Jim trabalha na / para a polícia._
 - Tim ist **bei** seiner Mutter.
   _Tim está na sua mãe._ <small>(está em sua casa)</small>
@@ -32,9 +36,9 @@
   _Quando você vai viajar para Roma?_
 
 ### Von - do / de
-- Das Handy von Leo ist kaputt.
+- Das Handy **von** Leo ist kaputt.
   _O celular de Leo está quebrado_.
-- Die Zeitung ist von heute.
+- Die Zeitung ist **von** heute.
   _O jornal é de hoje._
 
 
