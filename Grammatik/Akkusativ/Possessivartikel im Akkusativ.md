@@ -15,12 +15,12 @@ Assim como acontece com os pronomes em acusativo, apena o gênero masculino muda
 - Siehst du **meinen** Stift?
   _Você vê minha caneta?_
 - Ja, ich sehe **deinen** Stift.
-  _Sim, eu vi sua caneta?
+  _Sim, eu vi sua caneta._
 - - -
 - Magst du **ihre** Katze?
   _Você gosta do gato dela?_
 - Ja, ich finde **ihre** Katze sehr süß.
-  _Sim, eu acho o gato dela muito fofo.
+  _Sim, eu acho o gato dela muito fofo._
 - - -
 - Siehst du **unseren** Lehrer?
   _Você vê nosso professor?_

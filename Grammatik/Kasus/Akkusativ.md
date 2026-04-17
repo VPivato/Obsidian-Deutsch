@@ -16,10 +16,14 @@ Por exemplo:
 Para mais informações sobre os pronomes pessoais no caso acusativo, vide:
 [[Akkusativ-Personalpronomen]]
 
-Para mais informações sobre os artigos definidos, indefinidos e de negação no caso acusativo, vide:
+Para mais informações sobre os vários tipos de artigo no caso acusativo, vide:
 [[Bestimmte Artikel im Akkusativ]]
 [[Unbestimmte Artikel im Akkusativ]]
 [[Negative Artikel im Akkusativ]]
+[[Possessivartikel im Akkusativ]]
 
 Para mais informações sobre as preposições no caso acusativo, vide:
 [[Akkusativ-Präpositionen]]
+
+Para mais informações sobre a declinação de adjetivos no acusativo, vide:
+[[Adjektivdeklination im Akkusativ]]

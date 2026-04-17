@@ -22,10 +22,14 @@ Por exemplo:
 Para mais informações sobre os pronomes pessoais no caso dativo, vide:
 [[Dativ-Personalpronomen]]
 
-Para mais informações sobre os artigos definidos, indefinidos e de negação no caso dativo, vide:
+Para mais informações sobre os vários tipos de artigo no caso dativo, vide:
 [[Bestimmte Artikel im Dativ]]
 [[Unbestimmte Artikel im Dativ]]
 [[Negative Artikel im Dativ]]
+[[Possessivartikel im Dativ]]
 
 Para mais informações sobre as preposições no caso dativo, vide:
 [[Dativ-Präpositionen]]
+
+Para mais informações sobre a declinação de adjetivos no dativo, vide:
+[[Adjektivdeklination im Dativ]]

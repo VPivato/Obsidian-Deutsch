@@ -17,7 +17,7 @@
 - - -
 - Ist das **dein** Hund?
   _Esse é seu cachorro?_
-- Nein, das ist **ihr** Hund?
+- Nein, das ist **ihr** Hund.
   _Não, esse cachorro é dela._
 - - -
 - Ist das **sein** Vogel?

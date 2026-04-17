@@ -15,7 +15,7 @@
 - Ja, ich helfe ihm.
   _Sim, eu o ajudo._
 - - -
-- Antwortest du **deinem** Lehrerin?
+- Antwortest du **deiner** Lehrerin?
   _Você responde sua professora?_
 - Ja, ich antworte ihr.
   _Sim, eu a respondo._

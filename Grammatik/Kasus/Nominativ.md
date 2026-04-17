@@ -24,7 +24,11 @@ Por exemplo:
 Para mais informações sobre os pronomes pessoais no caso nominativo, vide:
 [[Nominativ-Personalpronomen]]
 
-Para mais informações sobre os artigos definidos, indefinidos e de negação no caso nominativo, vide:
+Para mais informações sobre os vários tipos de artigo no caso nominativo, vide:
 [[Bestimmte Artikel im Nominativ]]
 [[Unbestimmte Artikel im Nominativ]]
 [[Negative Artikel im Nominativ]]
+[[Possessivartikel im Nominativ]]
+
+Para mais informações sobre a declinação de adjetivos no nominativo, vide:
+[[Adjektivdeklination im Nominativ]]

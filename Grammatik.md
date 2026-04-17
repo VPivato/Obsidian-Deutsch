@@ -5,6 +5,7 @@
 - Saber aplicar [[Negation im Deutschen|Negação]] às suas frases é essencial para se expressar melhor.
 - [[Präpositionen|Preposições]] são pequenas palavras que juntam ideias e enriquecem a frase.
 - [[Possessivartikel|Artigos Possessivos]] são requeridos para falar de seus pertences.
+- [[Adjektivdeklination|Declinação de adjetivos]] para uma gramática correta de acordo com o caso.
 
 - - -
 ### Die vier fälle
@@ -19,7 +20,7 @@ Os quatro casos gramaticais em alemão são mudanças gramaticais que acontecem 
 [[Dativ]] — Indica o objeto indireto, quem se beneficia da ação. Alguns verbos exigem o uso de dativo[^1]. _"Wem?"_
 - Ich gebe **dem Hund** ein Spielzeug.
 
-[[Genitiv]] — Indica posse ou pertença e é usado com algumas preposições[^2]. _"Wessen?"_
+[[Genitiv]] — Indica posse ou pertença e é usado com algumas preposições. _"Wessen?"_
 - Das ist der Ball **des Hundes**.
 
 - - -
@@ -32,8 +33,5 @@ Em alemão, há duas formas principais e centrais de se fazer perguntas. A difer
 [[Ja-Nein-Fragen]] — São perguntas fechadas. Verbo vem na primeira posição e são respondidas apenas com "**Ja** oder **Nein**"
 - Wohnst du hier?
 
-- - -
 
-[^1]: Vide: [[Verben mit Präpositionen]]
-
-[^2]: Vide: [[Genitiv-Präpositionen]]
+[^1]: Vide: [[Dativ Verben.pdf]]
