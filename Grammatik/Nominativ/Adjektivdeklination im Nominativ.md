@@ -8,12 +8,12 @@ Porém, se o adjetivo vem **atrás** do substantivo, deve-se decliná-lo de acor
 
 - - -
 
-| Genus        | Def. Artikel | Indef. Artikel | Nullatikel |
-| ------------ | ------------ | -------------- | ---------- |
-| **Maskulin** | -e           | -er            | -er        |
-| **Neutrum**  | -e           | -es            | -es        |
-| **Feminin**  | -e           | -e             | -e         |
-| **Plural**   | -en          | -e             | -e         |
+| Genus        | Def. Artikel | Indef. Artikel | Nullartikel |
+| ------------ | ------------ | -------------- | ----------- |
+| **Maskulin** | -e           | -er            | -er         |
+| **Neutrum**  | -e           | -es            | -es         |
+| **Feminin**  | -e           | -e             | -e          |
+| **Plural**   | -en          | -e             | -e          |
 
 - Das ist ein **großer** Elefant.
   _Este é um elefante grande._

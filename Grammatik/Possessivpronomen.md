@@ -16,7 +16,7 @@ Felizmente, a **maioria** dos pronomes possessivos são iguais aos artigos posse
 Por exemplo:
 - Du trinkst aus **deinem** Glas und ich aus **meinem**. <small style="color:lightgreen">(Dativ)</small>
   _Você bebe do seu copo, e eu do meu._
-- Ich trinke **meinen Kaffee. Trinkst du **deinen** nicht? <small style="color:lightblue">(Akkusativ)</small>
+- Ich trinke **meinen** Kaffee. Trinkst du **deinen** nicht? <small style="color:lightblue">(Akkusativ)</small>
   _Eu bebo meu café. Você não vai beber o seu?_
 - Das ist **mein** Kaffee. Wo ist **deiner**? <small style="color:salmon">(Nominativ)</small>
   _Esse é meu café. Onde está o seu?_
@@ -30,14 +30,14 @@ São apenas três situações que é preciso memorizar:
 ### Nominativ
 Duas situações em nominativo, para os gêneros masculino e neutro.
 
-|              | ich    | du     | er/es  | sie   | wir     | ihr   | sie   |
-| ------------ | ------ | ------ | ------ | ----- | ------- | ----- | ----- |
-| **Maskulin** | meiner | deiner | seiner | ihrer | unserer | eurer | ihrer |
-| **Neutrum**  | meins  | deins  | seins  | ihrs  | unseres | eures | ihrs  |
+|              | ich    | du     | er/es  | sie <small>(fem.)</small> | wir     | ihr   | sie <small>(plural)</small> |
+| ------------ | ------ | ------ | ------ | ------------------------- | ------- | ----- | --------------------------- |
+| **Maskulin** | meiner | deiner | seiner | ihrer                     | unserer | eurer | ihrer                       |
+| **Neutrum**  | meins  | deins  | seins  | ihrs                      | unseres | eures | ihrs                        |
 
 ### Akkusativ
 Apenas uma situação em acusativo, para o gênero neutro.
 
-|              | ich    | du     | er/es  | sie   | wir     | ihr   | sie   |
-| ------------ | ------ | ------ | ------ | ----- | ------- | ----- | ----- |
-| **Neutrum**  | meins  | deins  | seins  | ihrs  | unseres | eures | ihrs  |
+|             | ich   | du    | er/es | sie <small>(fem.)</small> | wir     | ihr   | sie <small>(plural)</small> |
+| ----------- | ----- | ----- | ----- | ------------------------- | ------- | ----- | --------------------------- |
+| **Neutrum** | meins | deins | seins | ihrs                      | unseres | eures | ihrs                        |

@@ -2,10 +2,12 @@
 
 ### Kernthemen
 - [[Verbkonjugation|Conjugação Verbal]] é um dos temas mais importantes em qualquer idioma.
+- [[Verbstellung|Posição verbal]] define onde o verbo aparece na frase.
 - Saber aplicar [[Negation im Deutschen|Negação]] às suas frases é essencial para se expressar melhor.
 - [[Präpositionen|Preposições]] são pequenas palavras que juntam ideias e enriquecem a frase.
 - [[Possessivartikel|Artigos Possessivos]] são requeridos para falar de seus pertences.
 - [[Adjektivdeklination|Declinação de adjetivos]] para uma gramática correta de acordo com o caso.
+- [[Modalverben|Verbos Modais]] para expressão de necessidade, desejo, permissão e etc.
 
 - - -
 ### Die vier fälle
