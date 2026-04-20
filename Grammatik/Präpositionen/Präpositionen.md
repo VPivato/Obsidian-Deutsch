@@ -9,3 +9,5 @@ São fundamentais para enriquecer o contexto da frase, dando informações sobre
 [[Wechselpräpositionen]]
 [[Verben mit Präpositionen]]
 [[Kontraktionen]]
+[[Richtungspräpositionen]]
+[[Temporale Präpositionen]]

@@ -16,5 +16,5 @@ Usado para:
   _O médico disse que eu deveria ficar na cama._
 - Wann sollen wir zu dir kommen?
   _Quando deveríamos ir para sua casa?_
-- Peter soll einen neue Freundin haben.
+- Peter soll eine neue Freundin haben.
   _Dizem que Peter tem uma nova namorada._

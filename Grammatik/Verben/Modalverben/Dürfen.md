@@ -18,3 +18,10 @@ Usado para:
   _Por que meu cachorro não pode vir comigo?_
 - Darf ich Ihnen unseren Katalog zusenden?
   _Posso lhe enviar nosso catálogo?_
+
+> [!NOTE] nicht müssen vs nicht dürfen
+> Existe uma diferença essencial na negação dos verbos müssen e dürfen:
+> - Du musst nicht kommen.
+>   _Você não precisa vir._ <small>(ausência de obrigação)</small>
+> - Du darfst nicht kommen.
+>   _Você não pode vir._ <small>(proibição)</small>

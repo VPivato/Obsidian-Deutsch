@@ -2,6 +2,7 @@
 
 São verbos que exigem uma preposição específica para se conectar ao complemento que vem logo após.
 A preposição determina o caso gramatical do objeto que vem a seguir, [[Akkusativ]] ou [[Dativ]].
+
 - - -
 ### Angst vor
 Usa: Dativ
