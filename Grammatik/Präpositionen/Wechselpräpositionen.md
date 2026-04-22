@@ -52,12 +52,10 @@ São um grupo de preposições que podem assumir o caso Akkusativ ou Dativ, depe
 - Die Kreditkarte steckt in <span style="color:lightgreen">seinem Portemonnaie</span>.
   _O cartão de crédito está na carteira dele._
 
-A palavra "in" usada como preposição de tempo **sempre** se refere ao futuro.
-- Sie kommt in <span style="color:lightgreen">einer Stunde</span>.
-  _Ela virá em uma hora._
+Pode ser usado como preposição de tempo, vide: [[Temporale Präpositionen]]
 
 ### Neben - próximo a / ao lado
-- Ich lege der Stift neben <span style="color:lightblue">den Buch</span>.
+- Ich lege den Stift neben <span style="color:lightblue">das Buch</span>.
   _Eu coloco a caneta ao lado do livro._
 - Ich lege den Löffel neben <span style="color:lightblue">die Tasse</span>.
   _Eu coloco a colher ao lado da xícara._
@@ -74,31 +72,30 @@ A palavra "in" usada como preposição de tempo **sempre** se refere ao futuro.
 
 ### Unter - debaixo
 - Er stellt die Kiste unter <span style="color:lightblue">den Tisch</span>.
-  _Ele coloca a caixa debaixo da mesa.
+  _Ele coloca a caixa debaixo da mesa._
 - Die Kiste steht unter <span style="color:lightgreen">dem Tisch</span>.
   _A caixa está debaixo da mesa._
 
 ### Vor - na frente / antes
 - Ich lege meine Uhr <span style="color:lightblue">vor das Bild</span>.
   _Eu coloco meu relógio em frente à fotografia._
-- Ich lege der Stift vor <span style="color:lightblue">den Computer</span>.
+- Ich lege den Stift vor <span style="color:lightblue">den Computer</span>.
   _Eu coloco a caneta em frente ao computador._
 - Die Uhr liegt vor <span style="color:lightgreen">dem Bild.</span>
   _O relógio está em frente à fotografia._
 - Der Stift ist vor <span style="color:lightgreen">dem Computer</span>.
   _A caneta está na frente do computador._
 
-Quando usado como preposição de tempo, está junto a uma atividade.
-- Ich mache vor <span style="color:lightgreen">der Arbeit</span> Sport.
-  _Eu faço esportes antes do trabalho_
+Pode ser usado como preposição de tempo, vide: [[Temporale Präpositionen]]
 
 ### Zwischen - entre
 - Ich stelle das Bild zwischen <span style="color:lightblue">die Bücher</span>.
   _Eu coloco a fotografia entre os livros._
 - Das Bild steht zwischen <span style="color:lightgreen">den Büchern</span>.
   _A fotografia está entre os livros._
-- Zwischen <span style="color:lightgreen">der Uni</span> und <span style="color:lightgreen">dem yoga</span>.
-  _Entre a faculdade e o yoga._ <small>(poderia ser a resposta para "Wann hast du Zeit?")</small>
+
+Pode ser usado como preposição de tempo, vide: [[Temporale Präpositionen]]
+
 
 [^1]: Para mais informações sobre contrações "preposição + artigo definido", vide:
 [[Kontraktionen]]

@@ -6,4 +6,9 @@
 [[Die Berufe]]
 [[Begrüßungen]]
 [[Verabschiedungen]]
-
+[[Die Farben]]
+[[Die Tageszeiten]]
+[[Die Jahreszeiten]]
+[[Die Monate]]
+[[Die Wochentage]]
+[[Die Uhrzeiten]]

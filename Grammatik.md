@@ -8,6 +8,8 @@
 - [[Possessivartikel|Artigos Possessivos]] são requeridos para falar de seus pertences.
 - [[Adjektivdeklination|Declinação de adjetivos]] para uma gramática correta de acordo com o caso.
 - [[Modalverben|Verbos Modais]] para expressão de necessidade, desejo, permissão e etc.
+- [[Adverbien|Advérbios]] para adicionar circunstâncias às frases, como tempo e frequência.
+- [[Trennbare Verben|Verbos separáveis]] para criar novos significados a partir de verbos simples
 
 - - -
 ### Die vier fälle

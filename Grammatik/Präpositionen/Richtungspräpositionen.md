@@ -56,10 +56,13 @@ Movimento para dentro de um espaço fechado, interior.
 São quatro situações onde se deve usar essa preposição:
 1. Häuser, Gebäude — Casas, construções
    z.B.: Ich gehe ins <small>(in das)</small> Kino.
+   
 2. Orte mit "Grenzen" — Lugares com "bordas" <small>(delimitados)</small>
    z.B.: Du fährst in die Stadt.
+   
 3. Himmelsrichtungen — Pontos cardeais
    z.B.: Er fliegt in den Westen.
+   
 4. Orte in der Nähe — Lugares próximos
    z.B.: Wir gehen in den Flughafen.
 
@@ -77,7 +80,7 @@ São três situações onde se deve usar essa preposição:
    z.B.: Sie geht auf den Markt.
    
 3. Inseln — Ilhas.
-   z.B.: Wir gehen auf den Insel.
+   z.B.: Wir gehen auf die Insel.
 
 - - -
 
@@ -89,7 +92,7 @@ Apenas uma situação onde se deve usar essa preposição:
 1. Wasser — Água <small>(Meer, See, Küste, Fluss)</small>
    z.B.: Ich gehe ans <small>(an das)</small> Meer.
    z.B.: Sie geht an die Küste.
-   z.B.: Wir fahren an die Strand.
+   z.B.: Wir fahren an den Strand.
    z.B.: Ihr geht an den Fluss.
 
 - - -
@@ -99,6 +102,6 @@ Apenas uma situação onde se deve usar essa preposição:
 > 
 > Ich bin zu Hause — Eu estou em casa.
 > Ich gehe nach Hause — Eu vou para casa.
-> Ich komme von zu hause — Eu venho de casa
+> Ich komme von zu Hause — Eu venho de casa
 
 [^1]: Para mais informações sobre contrações de preposição + artigo, vide: [[Kontraktionen]]

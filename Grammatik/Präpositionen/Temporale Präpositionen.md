@@ -80,7 +80,7 @@ Oder:
 > O segundo significa "atrás". Só pode ser usado no passado e junto a algo que se refira ao tempo. Zum Beispiele:
 > - Vor zwei Jahren bin ich nach Berlin gefahren. <small>(dois anos atrás)</small>
 > - Er ist vor einer Stunde gegangen. <small>(uma hora atrás)</small>
-> - Vor einen Monat war sie krank. <small>(um mês atrás)</small>
+> - Vor einem Monat war sie krank. <small>(um mês atrás)</small>
 
 ### Nach + Zeitpunkt
 Sempre usa <span style="color:lightgreen">Dativ</span>. Resposta para "Wann?"
@@ -117,3 +117,70 @@ Oder:
   _Por quanto tempo ele morou em Berlim?_
 - Er hat für ein Jahr in Berlin gelebt.
   _Ele morou em Berlim por um ano._
+
+### Zwischen + Zeitdauer
+Sempre usa <span style="color:lightgreen">Dativ</span>.
+
+Zum Beispiel:
+- Wann gehst du ins Fitnessstudio?
+  _Quando você vai para a academia?_
+- Ich gehe zwischen 19 und 19:30 Uhr.
+  _Eu vou entre 19 e 19:30._
+
+Oder:
+- Wann findet die Messe statt?
+  _Quando ocorre a feira comercial?_
+- Zwischen dem 8. <small>(achten)</small> und 12. <small>(zwölften)</small> Juli.
+  _Entre 8 e 12 de Julho._
+
+### Über + Zeitdauer
+Sempre usa <span style="color:lightblue">Akkusativ</span>.
+
+Zum Beispiel:
+- Wann warst du das letzte Mal im Kino?
+  _Quando foi a última vez que você foi ao cinema?_
+- Das ist über einen Monat her.
+  _Foi há mais de um mês atrás._
+
+Oder:
+- Wie lange dauert der Flug?
+  _Quando tempo o voo dura?_
+- Er dauert über acht Stunden.
+  _Leva mais de oito horas._
+
+> [!TIP] Alternativas para über
+> Também é possível usar "länger als" ou "mehr als". Mesmo significado.
+> z.B.: Er dauert länger als acht Stunden.
+
+### Von ... an + Zeitpunkt in der Zukunft
+Sempre usa <span style="color:lightgreen">Dativ</span>. Resposta para "Ab wann?"
+
+ Zum Beispiel:
+ - Ab wann hast du Urlaub?
+   _A partir de quando começam suas férias?_
+ - Vom <small>(von dem)</small> nächsten Sonntag an.
+   _A partir do próximo domingo._
+
+Oder:
+- Ab wann studiert er in Deutschland?
+  _A partir de quando ele começa a estudar na Alemanha?_
+- Vom ersten September an.
+  _A partir de primeiro de setembro._
+
+### Seit + Zeitdauer / Zeitpunkt
+Sempre usa <span style="color:lightgreen">Dativ</span>. Resposta para "Seit wann?"
+
+> [!NOTE] Duração da ação
+> Essa preposição se refere à uma ação que começa no passado (Vergangenheit) e ainda está acontecendo no presente (Jetzt).
+
+Zum Beispiel:
+- Seit wann lerst du Deutsch?
+  _Você está aprendendo alemão desde quando?_
+- Ich lerne seit 6 Monaten Deutsch.
+  _Eu estou aprendendo alemão há 6 meses._
+
+Oder:
+- Seit wann wohnt sie in München?
+  _Ela mora em Munique desde quando?_
+- Sie wohnt seit 2 Jahren in München.
+  _Ela mora em Munique há 2 anos._
