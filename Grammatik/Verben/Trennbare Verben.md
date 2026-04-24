@@ -1,4 +1,4 @@
-#grammatik #verben 
+#grammatik #verben
 
 São compostos por um verbo central básico, e um prefixo separável que pode ser uma preposição ou advérbio. O prefixo muda o significado do verbo central.
 Ao conjugar, o prefixo sempre vai para o fim da frase, enquanto o núcleo fica na segunda posição.
@@ -36,7 +36,7 @@ Os prefixos mais comuns que **são** de verbos separáveis são:
 
 - - -
 ### Präfixe für untrennbare Verben
-Alguns prefixos que **parecem** ser de verbos separáveis, mas não são:
+Alguns prefixos que são **sempre inseparáveis**. O verbo nunca se divide:
 
 | Präfixe | Beispielverb | Bedeutung                 | Beispielsatz                               |
 | ------- | ------------ | ------------------------- | ------------------------------------------ |
@@ -66,7 +66,7 @@ Nesses casos, vale consultar um dicionário, pois os verbos separáveis possuem 
 Há alguns casos, porém, que o verbo separável **não** se separa, como por exemplo, em orações subordinadas (Nebensatz) e quando há o uso de [[Modalverben]].
 
 Zum Beispiele:
-- Ich glaube, dass wir heute **einkaufen**. <small>(Nebensatz)</small>
-  _Eu acho que vamos fazer compras hoje._
+- Ich glaube, dass wir heute im Supermarkt **einkaufen**. <small>(Nebensatz)</small>
+  _Eu acho que vamos fazer compras no supermercado hoje._
 - Ich muss morgen früh **aufstehen**. <small>(Modalverb)</small>
   _Eu tenho que levantar cedo amanhã._

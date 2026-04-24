@@ -55,7 +55,7 @@ Zum Beispiel:
   _Ele sempre surfa na internet._
 
 > [!WARNING] Uso de "immer"
-> O uso desse advérbio se refere a algo que **sempre** acontece, dando a ideia de uma frequência 24/7. Para algo um pouco menos extremo, é mais comum usar "ständig".
+> O uso desse advérbio se refere a algo que **sempre** acontece, dando a ideia de uma frequência 24/7. Para algo um pouco menos extremo, é mais comum usar "ständig". Regelmäßig (regularmente) também deve ser levado em consideração.
 > z.B.: Er surft ständig im Internet.
 
 ### Täglich / Jeden Tag
@@ -75,7 +75,7 @@ Zum Beispiel:
 - Wie oft liest du?
   _Com que frequência você lê?_
 - (Ich lese) Einmal pro Woche.
-  _(Eu leio) Uma vez por mês._
+  _(Eu leio) Uma vez por semana._
 
 Oder:
 - Wie oft geht Martha shoppen?

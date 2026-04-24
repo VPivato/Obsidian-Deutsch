@@ -13,8 +13,9 @@ Por exemplo:
 **Wen** sehe ich? > Den Mann
 
 - - -
-Para mais informações sobre os pronomes pessoais no caso acusativo, vide:
+Para mais informações sobre os pronomes no caso acusativo, vide:
 [[Akkusativ-Personalpronomen]]
+[[Demonstrativpronomen im Akkusativ]]
 
 Para mais informações sobre os vários tipos de artigo no caso acusativo, vide:
 [[Bestimmte Artikel im Akkusativ]]

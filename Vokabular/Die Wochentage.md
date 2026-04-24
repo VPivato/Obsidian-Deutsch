@@ -14,7 +14,7 @@
 
 - Am Montag habe ich einen Termin.
   _Na segunda-feira tenho uma reunião._
-- Montags mus sich arbeiten.
+- Montags muss ich arbeiten.
   _Às segundas-feiras tenho que trabalhar_
 - Was machst du am Wochenende?
   _O que você fará no final de semana?_

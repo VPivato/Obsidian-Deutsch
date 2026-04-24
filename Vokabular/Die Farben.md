@@ -12,7 +12,7 @@
 - <span style="color:pink">Rosa</span>
 - <span style="color:turquoise">Türkis</span>
 - <span style="color:orange">Orange</span>
-- <span style="color:purple">Lila / Violet</span>
+- <span style="color:purple">Lila / Violett</span>
 - <span style="color:gold">Golden</span>
 - <span style="color:silver">Silbern</span>
 - <span style="color:gray">Grau</span>
@@ -29,4 +29,4 @@
 
 > [!NOTE] Colorido
 > Para descrever algo colorido, pode-se usar a palavra "bunt".
-> Para descrever algo que seja colorido de uma forma caótica, mais intensificado, usa-se "kunterblunt".
+> Para descrever algo que seja colorido de uma forma caótica, mais intensificado, usa-se "kunterbunt".

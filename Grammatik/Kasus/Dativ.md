@@ -19,8 +19,9 @@ Por exemplo:
 > Para uma lista completa, vide o PDF: [[Dativ Verben.pdf]]
 
 - - -
-Para mais informações sobre os pronomes pessoais no caso dativo, vide:
+Para mais informações sobre os pronomes no caso dativo, vide:
 [[Dativ-Personalpronomen]]
+[[Demonstrativpronomen im Dativ]]
 
 Para mais informações sobre os vários tipos de artigo no caso dativo, vide:
 [[Bestimmte Artikel im Dativ]]

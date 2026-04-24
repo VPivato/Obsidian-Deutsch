@@ -14,7 +14,7 @@ Zum Beispiele:
 - Es ist einundzwanzig Uhr fünfundvierzig. (21:45)
   _São nove e quarenta e cinco da noite._
 
-### 2. Im Gesprächen
+### 2. Im Gespräch
 Essa opção usa, normalmente, o formato 12h, e é mais usada em conversas.
 Minuto + nach / vor + hora
 
@@ -26,7 +26,7 @@ Zum Beispiele:
 - Es ist **viertel nach** sieben (7:15).
   _São 15 minutos após 7._
 - Es ist **halb** elf. (10:30)
-  _Falta meia hora para as onze._
+  _Falta meia hora para as onze._ <small>(halb elf = metade de onze)</small>
 - Es ist **viertel vor** vier.
   _São 15 para as 4._
 

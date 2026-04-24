@@ -9,7 +9,8 @@
 - [[Adjektivdeklination|Declinação de adjetivos]] para uma gramática correta de acordo com o caso.
 - [[Modalverben|Verbos Modais]] para expressão de necessidade, desejo, permissão e etc.
 - [[Adverbien|Advérbios]] para adicionar circunstâncias às frases, como tempo e frequência.
-- [[Trennbare Verben|Verbos separáveis]] para criar novos significados a partir de verbos simples
+- [[Trennbare Verben|Verbos separáveis]] para criar novos significados a partir de verbos simples.
+- [[Reflexive Verben|Verbos reflexivos]] para ações que recaem sobre o próprio sujeito.
 
 - - -
 ### Die vier fälle
@@ -36,6 +37,12 @@ Em alemão, há duas formas principais e centrais de se fazer perguntas. A difer
 
 [[Ja-Nein-Fragen]] — São perguntas fechadas. Verbo vem na primeira posição e são respondidas apenas com "**Ja** oder **Nein**"
 - Wohnst du hier?
+
+- - -
+### Die Tempora
+São os seis tempos gramaticais usados para situar uma ação no passado, presente ou futuro.
+
+Para mais informações sobre cada um dos Tempus, vide: [[Die Tempora]].
 
 
 [^1]: Vide: [[Dativ Verben.pdf]]

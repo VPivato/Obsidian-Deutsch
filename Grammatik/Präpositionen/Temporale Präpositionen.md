@@ -174,7 +174,7 @@ Sempre usa <span style="color:lightgreen">Dativ</span>. Resposta para "Seit wann
 > Essa preposição se refere à uma ação que começa no passado (Vergangenheit) e ainda está acontecendo no presente (Jetzt).
 
 Zum Beispiel:
-- Seit wann lerst du Deutsch?
+- Seit wann lernst du Deutsch?
   _Você está aprendendo alemão desde quando?_
 - Ich lerne seit 6 Monaten Deutsch.
   _Eu estou aprendendo alemão há 6 meses._

@@ -21,8 +21,9 @@ Por exemplo:
 > Den Hund > Objekt im Akkusativ
 
 - - -
-Para mais informações sobre os pronomes pessoais no caso nominativo, vide:
+Para mais informações sobre os pronomes no caso nominativo, vide:
 [[Nominativ-Personalpronomen]]
+[[Demonstrativpronomen im Nominativ]]
 
 Para mais informações sobre os vários tipos de artigo no caso nominativo, vide:
 [[Bestimmte Artikel im Nominativ]]
