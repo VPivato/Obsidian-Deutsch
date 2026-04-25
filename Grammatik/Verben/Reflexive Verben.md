@@ -5,7 +5,7 @@ Para referência, esses são os pronomes reflexivos:
 
 |                     | Akkusativ | Dativ |
 | ------------------- | --------- | ----- |
-| **1. Pers. sing.**  | mich      | dir   |
+| **1. Pers. sing.**  | mich      | mir   |
 | **2. Pers. sing.**  | dich      | dir   |
 | **3. Pers. sing.**  | sich      | sich  |
 | **1. Pers. plural** | uns       | uns   |
@@ -42,7 +42,7 @@ Os principais verbos reflexivos no nível A1 são:
 | sich bedanken für / bei | agradecer alguém por algo        | <span style="color:lightblue">Akk.</span> / <span style="color:lightgreen">Dat.</span> |          | Wir bedanken uns bei dir für deine Unterstützung.                                           |
 | sich anziehen           | vestir / colocar algo            | <span style="color:lightgreen">Dat.</span>                                             |          | David hat sich eine Maske angezogen.                                                        |
 | sich ausziehen          | se despir / tirar algo           | <span style="color:lightgreen">Dat.</span>                                             | Ja       | Marc zieht sich sein T-Shirt aus.                                                           |
-| sich treffen mit        | se encontrar com algúem          | <span style="color:lightgreen">Dat.</span>                                             |          | Heute Abend treffe ich mich mit meinen Freuden.                                             |
+| sich treffen mit        | se encontrar com algúem          | <span style="color:lightgreen">Dat.</span>                                             |          | Heute Abend treffe ich mich mit meinen Freunden.                                            |
 | sich waschen            | se lavar                         | <span style="color:lightgreen">Dat.</span>                                             |          | Wenn es heiß ist, wäscht sich Anton oft sein Gesicht.                                       |
 
 ### A2
@@ -58,10 +58,10 @@ Os principais verbos reflexivos no nível A2 são:
 | sich ängern über       | se irritar sobre       | <span style="color:lightblue">Akk.</span>                                              |          | Die Affen ängern sich über den Lärm.                                     |
 | sich eintragen         | registrar / assinar    | <span style="color:lightblue">Akk.</span>                                              | Ja       | Baxter trägt sich in der Liste ein.                                      |
 | sich fühlen            | sentir                 | <span style="color:lightblue">Akk.</span>                                              |          | Karl fühlt sich wieder besser.                                           |
-| sich informieren über  | se informar sobre algo | <span style="color:lightblue">Akk.</span>                                              |          | Wo informierst du dich?<br>Florian informiere dich über Tiere.           |
-| sich scheinden         | se cortar              | <span style="color:lightblue">Akk.</span>                                              |          | Mona hat sich gerade geschnitten.                                        |
-| sich setze             | se sentar              | <span style="color:lightblue">Akk.</span>                                              |          | Ich setze mich auf den Stuhl.                                            |
-| sich unterhalten über  | conservar sobre        | <span style="color:lightblue">Akk.</span>                                              |          | Sie unterhalten sich über Politik.                                       |
+| sich informieren über  | se informar sobre algo | <span style="color:lightblue">Akk.</span>                                              |          | Wo informierst du dich?<br>Florian informiert sich über Tiere.           |
+| sich schneiden         | se cortar              | <span style="color:lightblue">Akk.</span>                                              |          | Mona hat sich gerade geschnitten.                                        |
+| sich setzen            | se sentar              | <span style="color:lightblue">Akk.</span>                                              |          | Ich setze mich auf den Stuhl.                                            |
+| sich unterhalten über  | conversar sobre        | <span style="color:lightblue">Akk.</span>                                              |          | Sie unterhalten sich über Politik.                                       |
 | sich verlieben         | se apaixonar           | <span style="color:lightblue">Akk.</span>                                              |          | Er hat sich in sie verliebt.                                             |
 | sich bewerben um / bei | se candidatar para / a | <span style="color:lightblue">Akk.</span> / <span style="color:lightgreen">Dat.</span> |          | Max bewirbt sich um ein Stipendium. /<br>Lisa hat sich bei BMW beworben. |
 | sich etwas kaufen      | comprar algo para si   | <span style="color:lightgreen">Dat.</span>                                             |          | Sie haben sich ein altes Auto gekauft.                                   |

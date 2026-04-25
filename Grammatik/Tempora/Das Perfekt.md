@@ -26,7 +26,7 @@ Zum Beispiele:
 > Arbeiten > gearbeitet
 
 #### Verben auf -ieren
-Para verbos que possuem essa terminação, é ainda mais simples. O Partizip II desses verbos é simplesmente a conjugação na terceira pessoa singular no presente.
+Para verbos que possuem essa terminação, é ainda mais simples. O Partizip II desses verbos não recebe o prefixo "ge-" e a raiz possui terminação "-t".
 
 Zum Beispiele:
 > Telefonieren > Telefoniert

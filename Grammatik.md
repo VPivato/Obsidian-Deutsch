@@ -11,6 +11,7 @@
 - [[Adverbien|Advérbios]] para adicionar circunstâncias às frases, como tempo e frequência.
 - [[Trennbare Verben|Verbos separáveis]] para criar novos significados a partir de verbos simples.
 - [[Reflexive Verben|Verbos reflexivos]] para ações que recaem sobre o próprio sujeito.
+- [[Komparativ und Superlativ|Comparativo e Superlativo]] enriquecem o uso de adjetivos e comparações.
 
 - - -
 ### Die vier fälle
@@ -27,6 +28,12 @@ Os quatro casos gramaticais em alemão são mudanças gramaticais que acontecem 
 
 [[Genitiv]] — Indica posse ou pertença e é usado com algumas preposições. _"Wessen?"_
 - Das ist der Ball **des Hundes**.
+
+- - -
+### Satzbau
+É a estrutura de uma frase, que dita a posição em que os elementos aparecem. Uma frase pode ser classificada como Hauptsatz ou Nebensatz.
+
+Para mais informações sobre a estrutura de uma oração, vide: [[Satzbau]]
 
 - - -
 ### Fragen

@@ -22,7 +22,7 @@ Zum Beispiel:
 Oder:
 - Welche Couch gefällt dir?
   _Qual sofá você gostou?_
-- **Diese** hier seht toll aus.
+- **Diese** hier sieht toll aus.
   _Esse parece ótimo._
 
 > [!NOTE] Demonstrativartikel
