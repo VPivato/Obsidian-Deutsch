@@ -28,7 +28,7 @@ Existem sete tipos de Nebensatz:
 | -------------- | ---------------------- | ---- | --- | ------- | ------- |
 | **Beispiel 1** | Ich esse ein Sandwich, | weil | ich | Hunger  | habe.   |
 | **Beispiel 2** | Sie trinkt die Cola,   | die  | er  | gekauft | hat.    |
-| **Beispiel 3** | Denkst du,             | das  | es  | morgen  | regnet. |
+| **Beispiel 3** | Denkst du,             | dass | es  | morgen  | regnet? |
 
 **Das konjugierte Verb steht immer am Ende.**
 
@@ -37,7 +37,7 @@ Existem sete tipos de Nebensatz:
 Konjunktionen: weil, da.
 
 - Er bleibt zu Hause, **weil** das Wetter schlecht ist.
-  _Ele foi para casa, **porque** o clima está ruim._
+  _Ele fica em casa, **porque** o clima está ruim._
 - **Da** ihr Auto kaputt ist, nimmt sie ein Taxi.
   _**Porque** seu carro está quebrado, ela vai pegar um táxi._
 
@@ -60,7 +60,7 @@ Konjunktionen: wenn, falls, sofern.
 ### Temporaler Nebensatz
 Konjunktionen: seitdem, während, bis.
 
-- Er lernst Deutsch, **seitdem** er in Deutschland lebt.
+- Er lernt Deutsch, **seitdem** er in Deutschland lebt.
   _Ele aprende alemão **desde que** ele vive na Alemanha._
 - Sie zeichnet ein Bild, **während** sie telefoniert.
   _Ela desenha **enquanto** telefona._
@@ -103,10 +103,14 @@ Relativpronomen: der, die, das...
 - Das ist die Lampe, **die** ich gekauft habe.
   _Essa é a lâmpada **que** eu comprei._
 
+> [!WARNING] Escolha do Relativpronomen
+> O pronome relativo concorda em gênero com o substantivo que substitui (Antezedent), mas o caso depende de sua função na oração
+> #aserexpandido
+
 - - -
 ### Tipps
 
-Ao contrário do padrão "HS + NS", também é possível escrever uma frase usando a estrutura "NS + HS", . Nesses casos, o verbo da HS fica na segunda posição.
+Ao contrário do padrão "HS + NS", também é possível escrever uma frase usando a estrutura "NS + HS", . Nesses casos, o verbo da HS fica na segunda posição, ou seja, o verbo e o sujeito trocam de posição.
 
 Zum Beispiel:
 - Ich esse ein Sandwich, weil ich Hunger habe. <small>(HS + NS)</small>

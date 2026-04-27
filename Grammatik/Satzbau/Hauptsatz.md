@@ -6,18 +6,17 @@ A definição de uma cláusula principal é:
 - Possui um sujeito e um verbo.
 
 Existem três tipos de Hauptsatz: Aussagen, [[W-Fragen]], [[Ja-Nein-Fragen]]
-> Ich esse am 8 Uhr frühstück.
 
 - - -
 ### Aussagen - afirmações
 Frases afirmativas onde o verbo **sempre** fica na segunda posição.
 Vide [[Verbstellung]] para mais sobre posicionamento verbal.
 
-| Position:      | 1    | 2        | 3        | 4          |
-| -------------- | ---- | -------- | -------- | ---------- |
-| **Beispiel 1** | Ich  | esse     | um 8 Uhr | frühstück. |
-| **Beispiel 2** | Hans | isst     | gern     | Spaghetti. |
-| **Beispiel 3** | Wir  | sprechen | heute    | Deutsch.   |
+| Position:      | 1    | 2         | 3         | 4          |
+| -------------- | ---- | --------- | --------- | ---------- |
+| **Beispiel 1** | Ich  | frühstück | um 8 Uhr. |            |
+| **Beispiel 2** | Hans | isst      | gern      | Spaghetti. |
+| **Beispiel 3** | Wir  | sprechen  | heute     | Deutsch.   |
 
 > [!NOTE] Satzbau
 > Observe nos exemplos acima a estrutura da frase:
@@ -62,9 +61,10 @@ Vide [[Ja-Nein-Fragen]] para mais informações.
 | **Beispiel 2** | Hört    | er  | oft         | Musik?    |
 | **Beispiel 3** | Essen   | wir | heute Abend | zu Hause? |
 
+
 > [!NOTE] Satzbau
 > Observe nos exemplos acima a estrutura da frase:
-> **konjugiertes Verb (1) + Subjekt (2) + Ergänzung[^1] (3, 4)**
+> **konjugiertes Verb (1) + Subjekt (2) + Ergänzung (3, 4)**
 
 **Verb steht immer am Position 1.**
 **Subjekt steht immer am Position 2.**

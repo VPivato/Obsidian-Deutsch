@@ -1,4 +1,4 @@
-#grammatik #tempora
+#grammatik #tempora #perfekt
 
 O Perfekt é usado para falar sobre algo em um passado próximo, uma ação que **já foi finalizada**. É usado principalmente na língua falada, ou em situações privadas e informais, enquanto na escrita o padrão é usar Präteritum.
 ### Das Perfekt mit „haben“

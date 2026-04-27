@@ -63,6 +63,7 @@ Há alguns adjetivos que fogem completamente dessas regras. Os que merecem mais 
 | viel    | mehr       | am meisten  |
 | hoch    | höher      | am höchsten |
 | nah     | näher      | am nächsten |
+| groß    | größer     | am größten  |
 
 ### Keine Steigerung
 Existem alguns adjetivos que **não podem** ser usados para comparação.
@@ -73,3 +74,10 @@ Sendo eles:
 - Einmalig - único
 - Voll - cheio
 - Leer - vazio
+
+### Terminações
+
+> [!WARNING] Declinação
+> Quando usados antes de um substantivo, Komparativ e Superlativ também se declinam
+> z.B.: Ein schnelleres Auto
+> #aserexpandido
