@@ -3,7 +3,7 @@ Lista de futuros temas para estudar, ordenados na possível ordem em que os abor
 
 - Mais notas sobre advérbios
 - Pronominaladverbien
-- Tempo verbais (Präteritum, Plusquamperfekt, Futur I, Futur II)
+- Tempo verbais (Plusquamperfekt, Futur I, Futur II)
 - Infinitivsatz
 - Modos verbais (Indikativ, Konjunktiv, Imperativ)
 

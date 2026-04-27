@@ -5,10 +5,10 @@ Usado para:
 - Expectativas gerais.
 - Falar sobre rumores. <small>(uso não muito comum)</small>.
 
-|                | ich    | du       | er, sie, es | wir     | ihr     | sie, Sie |
-| -------------- | ------ | -------- | ----------- | ------- | ------- | -------- |
-| **Präsens**    | soll   | sollst   | soll        | sollen  | sollt   | sollen   |
-| **Präteritum** | sollte | solltest | sollte      | sollten | solltet | sollten  |
+|                                    | ich    | du       | er, sie, es | wir     | ihr     | sie, Sie |
+| ---------------------------------- | ------ | -------- | ----------- | ------- | ------- | -------- |
+| **[[Das Präsens\|Präsens]]**       | soll   | sollst   | soll        | sollen  | sollt   | sollen   |
+| **[[Das Präteritum\|Präteritum]]** | sollte | solltest | sollte      | sollten | solltet | sollten  |
 
 - - -
 

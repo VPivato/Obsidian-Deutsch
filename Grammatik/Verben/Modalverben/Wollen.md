@@ -5,10 +5,10 @@ Usado para:
 - Expressar desejos e objetivos.
 - Falar sobre planos
 
-|                | ich    | du       | er, sie, es | wir     | ihr     | sie, Sie |
-| -------------- | ------ | -------- | ----------- | ------- | ------- | -------- |
-| **Präsens**    | will   | willst   | will        | wollen  | wollt   | wollen   |
-| **Präteritum** | wollte | wolltest | wollte      | wollten | wolltet | wollten  |
+|                                    | ich    | du       | er, sie, es | wir     | ihr     | sie, Sie |
+| ---------------------------------- | ------ | -------- | ----------- | ------- | ------- | -------- |
+| **[[Das Präsens\|Präsens]]**       | will   | willst   | will        | wollen  | wollt   | wollen   |
+| **[[Das Präteritum\|Präteritum]]** | wollte | wolltest | wollte      | wollten | wolltet | wollten  |
 
 - - -
 

@@ -24,12 +24,13 @@ Alguns verbos regulares importantes são:
 | **du**        | kauftest | machtest | fragtest | sagtest | arbeitetest | wartetest | redetest |
 | **er/sie/es** | kaufte   | machte   | fragte   | sagte   | arbeitete   | wartete   | redete   |
 | **wir**       | kauften  | machten  | fragten  | sagten  | arbeiteten  | warteten  | redeten  |
-| **ihr**       | kauftet  | machtet  | fragtet  | sagtet  | arbeitetet  | wardetet  | redetet  |
-| **sie/Sie**   | kauften  | machten  | fragten  | sagten  | arbeiteten  | wardeten  | redeten  |
+| **ihr**       | kauftet  | machtet  | fragtet  | sagtet  | arbeitetet  | wartetet  | redetet  |
+| **sie/Sie**   | kauften  | machten  | fragten  | sagten  | arbeiteten  | warteten  | redeten  |
+
 
 
 > [!TIP] Padrão das terminações
-> Um padrão que pode ajudar a memorizar as terminações é que elas são iguais às terminação do tempo [[Präsens]], com adição de um **-t** ou **-te** entre o Verbstamm e Endung[^1]. Por exemplo:
+> Um padrão que pode ajudar a memorizar as terminações é que elas são iguais às terminação do tempo [[Das Präsens|Präsens]], com adição de um **-t** ou **-te** entre o Verbstamm e Endung[^1]. Por exemplo:
 > > Ich kaufe > ich kauf**t**e
 > > Du kaufst > du kauf**te**st
 > 
@@ -50,14 +51,14 @@ Alguns verbos regulares importantes são:
 #### Unregelmäßige Verben
 Alguns verbos irregulares importantes são:
 
-|               | geben | kommen | finden  | gehen  | sehen |
-| ------------- | ----- | ------ | ------- | ------ | ----- |
-| **ich**       | gab   | kam    | fand    | ging   | sah   |
-| **du**        | gabst | kamst  | fandest | gingst | sahst |
-| **er/sie/es** | gab   | kam    | fand    | ging   | sah   |
-| **wir**       | gaben | kamen  | fanden  | gingen | sahen |
-| **ihr**       | gabt  | kamt   | fandet  | gingt  | saht  |
-| **sie/Sie**   | gaben | kamen  | fanden  | gingen | sahen |
+|               | geben | kommen | finden  | gehen  | sehen | sprechen | schreiben |
+| ------------- | ----- | ------ | ------- | ------ | ----- | -------- | --------- |
+| **ich**       | gab   | kam    | fand    | ging   | sah   | sprach   | schrieb   |
+| **du**        | gabst | kamst  | fandest | gingst | sahst | sprachst | schriebst |
+| **er/sie/es** | gab   | kam    | fand    | ging   | sah   | sprach   | schrieb   |
+| **wir**       | gaben | kamen  | fanden  | gingen | sahen | sprachen | schrieben |
+| **ihr**       | gabt  | kamt   | fandet  | gingt  | saht  | spracht  | schriebt  |
+| **sie/Sie**   | gaben | kamen  | fanden  | gingen | sahen | sprachen | schrieben |
 
 
 [^1]: Para mais informações sobre Verbstamm e Endung, vide: [[Verbstruktur]]

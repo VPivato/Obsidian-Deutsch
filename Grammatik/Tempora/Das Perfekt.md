@@ -1,6 +1,6 @@
 #grammatik #tempora #perfekt
 
-O Perfekt é usado para falar sobre algo em um passado próximo, uma ação que **já foi finalizada**. É usado principalmente na língua falada, ou em situações privadas e informais, enquanto na escrita o padrão é usar Präteritum.
+O Perfekt é usado para falar sobre algo em um passado próximo, uma ação que **já foi finalizada**. É usado principalmente na língua falada, ou em situações privadas e informais, enquanto na escrita o padrão é usar [[Das Präteritum|Präteritum]].
 ### Das Perfekt mit „haben“
 Usa-se o verbo auxiliar "haben" junto a:
 - Verbos com objeto acusativo.
@@ -64,7 +64,7 @@ Zum Beispiel:
 > Vergessen > vergessen
 
 #### Ausnahmen
-Quando o Vollverb **também** é „haben“, deve-se usar Präteritum, ao invés de Perfekt.
+Quando o Vollverb **também** é „haben“, deve-se usar [[Das Präteritum|Präteritum]], ao invés de Perfekt.
 
 Zum Beispiel:
 - Gestern habe ich Deutschkurs gehabt.
@@ -100,7 +100,7 @@ Vier spezielle Verben:
   _O que aconteceu?_
 
 > [!TIP] Dica
-> Se ambos o Vollverb e o Hilfsverb forem "sein", é mais comum usar Präteritum ao invés de Perfekt.
+> Se ambos o Vollverb e o Hilfsverb forem "sein", é mais comum usar [[Das Präteritum|Präteritum]] ao invés de Perfekt.
 > 
 > Zum Beispiel:
 > - Ich bin in Köln gewesen. <small>não é errado, mas um nativo não falaria assim</small>

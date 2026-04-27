@@ -17,6 +17,24 @@ Os seis verbos modais, ordenados com base no quão comum é seu uso, são:
 > - Essenciais para conversações, estando nos 100 verbos mais usados.
 
 - - -
+### Satzbau
+Para **orações principais** ([[Hauptsatz]]) que usem verbos modais, o verbo principal (Vollverb) sempre fica na última posição.
+
+| Position:  | 1      | 2      | X                 | letzter Stand |
+| ---------- | ------ | ------ | ----------------- | ------------- |
+| **Satz 1** | Ich    | kann   | nicht gut Fußball | spielen.      |
+| **Satz 2** | Kannst | du     | mir bitte         | helfen?       |
+| **Satz 3** | Wann   | können | wir eine Pause    | machen?       |
+
+Para orações subordinadas ([[Nebensatz]]), o verbo modal fica na última posição:
+
+| Position:  | Hauptsatz   | X                     | Vollverb | letzter Stand |
+| ---------- | ----------- | --------------------- | -------- | ------------- |
+| **Satz 1** | Ich glaube, | dass Toni gut Fußball | spielen  | kann.         |
+| **Satz 2** | Ich hoffe,  | dass du mir           | helfen   | kannst.       |
+| **Satz 3** | Weißt du,   | wann wir eine Pause   | machen   | können?       |
+
+- - -
 ### Konjugation im Präsens
 
 |                 | können | mögen | wollen | sollen | dürfen | müssen |
@@ -48,6 +66,6 @@ Os seis verbos modais, ordenados com base no quão comum é seu uso, são:
 | **sie, Sie**    | konnten  | mochten  | wollten  | sollten  | durften  | mussten  |
 
 > [!Tip] Dicas
-> A conjugação no Präteritum (passado simples), é muito mais regular, exceto pelo verbo "mögen".
+> A conjugação no **[[Das Präteritum|Präteritum]]** (passado simples), é muito mais regular, exceto pelo verbo "mögen".
 > Observa-se o mesmo padrão de terminação — -te, -test, -ten, -tet.
 > Além disso, as tremas das vogais são retiradas.

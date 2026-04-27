@@ -5,10 +5,10 @@ Usado para:
 - Fazer fortes suposições.
 - Discutir responsabilidades.
 
-|                | ich    | du       | er, sie, es | wir     | ihr     | sie, Sie |
-| -------------- | ------ | -------- | ----------- | ------- | ------- | -------- |
-| **Präsens**    | muss   | musst    | muss        | müssen  | müsst   | müssen   |
-| **Präteritum** | musste | musstest | musste      | mussten | musstet | mussten  |
+|                                    | ich    | du       | er, sie, es | wir     | ihr     | sie, Sie |
+| ---------------------------------- | ------ | -------- | ----------- | ------- | ------- | -------- |
+| **[[Das Präsens\|Präsens]]**       | muss   | musst    | muss        | müssen  | müsst   | müssen   |
+| **[[Das Präteritum\|Präteritum]]** | musste | musstest | musste      | mussten | musstet | mussten  |
 
 - - -
 

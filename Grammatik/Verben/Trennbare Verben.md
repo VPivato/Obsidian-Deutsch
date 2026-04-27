@@ -63,7 +63,7 @@ Nesses casos, vale consultar um dicionário, pois os verbos separáveis possuem 
 | unter   | unter \| gehen  | unterschreiben |
 
 ### Ausnahmen
-Há alguns casos, porém, que o verbo separável **não** se separa, como por exemplo, em orações subordinadas (Nebensatz) e quando há o uso de [[Modalverben]].
+Há alguns casos, porém, que o verbo separável **não** se separa, como por exemplo, em orações subordinadas ([[Nebensatz]]) e quando há o uso de [[Modalverben]].
 
 Zum Beispiele:
 - Ich glaube, dass wir heute im Supermarkt **einkaufen**. <small>(Nebensatz)</small>

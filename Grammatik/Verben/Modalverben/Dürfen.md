@@ -5,10 +5,10 @@ Usado para:
 - Importante para discutir regras.
 - Forma muito formal de pedir algo.
 
-|                | ich    | du       | er, sie, es | wir     | ihr     | sie, Sie |
-| -------------- | ------ | -------- | ----------- | ------- | ------- | -------- |
-| **Präsens**    | darf   | darfst   | darf        | dürfen  | dürft   | dürfen   |
-| **Präteritum** | durfte | durftest | durfte      | durften | durftet | durften  |
+|                                    | ich    | du       | er, sie, es | wir     | ihr     | sie, Sie |
+| ---------------------------------- | ------ | -------- | ----------- | ------- | ------- | -------- |
+| **[[Das Präsens\|Präsens]]**       | darf   | darfst   | darf        | dürfen  | dürft   | dürfen   |
+| **[[Das Präteritum\|Präteritum]]** | durfte | durftest | durfte      | durften | durftet | durften  |
 
 - - -
 
