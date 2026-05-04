@@ -5,3 +5,4 @@ São os tempos gramaticais usados para descrever uma ação no passado, presente
 - [[Das Präsens]] para ações que estão acontecendo no momento presente.
 - [[Das Perfekt]] para falar sobre fatos passados já concluídos. Muito comum na fala cotidiana e muitas vezes substitui o Präteritum
 - [[Das Präteritum]] para fatos também já concluídos. O tempo verbal padrão na linguagem escrita.
+- [[Das Futur I]] para ações futuras, intenções e suposições.

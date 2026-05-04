@@ -80,10 +80,10 @@ Konjunktion: damit
 ### Nebensatz mit „dass“
 Konjunktion: dass
 
-- Wir glauben, dass das Wetter morgen gut ist.
-  _Nós acreditamos que o clima vai estar bom amanhã._
-- Ich hoffe, dass ihr gern Deutsch lernt.
-  _Eu espero que vocês gostem de aprender Alemão._
+- Wir glauben, **dass** das Wetter morgen gut ist.
+  _Nós acreditamos **que** o clima vai estar bom amanhã._
+- Ich hoffe, **dass** ihr gern Deutsch lernt.
+  _Eu espero **que** vocês gostem de aprender Alemão._
 
 - - -
 ### Indirekter Fragesatz
@@ -103,14 +103,12 @@ Relativpronomen: der, die, das...
 - Das ist die Lampe, **die** ich gekauft habe.
   _Essa é a lâmpada **que** eu comprei._
 
-> [!WARNING] Escolha do Relativpronomen
-> O pronome relativo concorda em gênero com o substantivo que substitui (Antezedent), mas o caso depende de sua função na oração
-> #aserexpandido
+Para mais informações detalhadas sobre as Relativsätze, vide: [[Relativsatz]]
 
 - - -
 ### Tipps
 
-Ao contrário do padrão "HS + NS", também é possível escrever uma frase usando a estrutura "NS + HS", . Nesses casos, o verbo da HS fica na segunda posição, ou seja, o verbo e o sujeito trocam de posição.
+Ao contrário do padrão "HS + NS", também é possível escrever uma frase usando a estrutura "NS + HS". Nesses casos, o verbo da HS fica na primeira posição, ou seja, o verbo e o sujeito trocam de posição.
 
 Zum Beispiel:
 - Ich esse ein Sandwich, weil ich Hunger habe. <small>(HS + NS)</small>

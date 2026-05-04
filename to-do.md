@@ -2,8 +2,6 @@
 Lista de futuros temas para estudar, ordenados na possível ordem em que os abordarei:
 
 - Mais notas sobre advérbios
-- Pronominaladverbien
-- Tempo verbais (Plusquamperfekt, Futur I, Futur II)
-- Infinitivsatz
+- Tempo verbais (Plusquamperfekt, Futur II)
 - Modos verbais (Indikativ, Konjunktiv, Imperativ)
 
