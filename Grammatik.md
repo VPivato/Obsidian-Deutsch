@@ -51,5 +51,11 @@ São os seis tempos gramaticais usados para situar uma ação no passado, presen
 
 Para mais informações sobre cada um dos Tempus, vide: [[Die Tempora]].
 
+- - -
+
+### Die Modus
+São os três modos verbais para expressar fatos, desejos ou ordens.
+
+Para mais informações sobre cada um dos Modus, vide: [[Die Modus]]
 
 [^1]: Vide: [[Dativ Verben.pdf]]

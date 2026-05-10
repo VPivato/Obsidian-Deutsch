@@ -4,4 +4,5 @@ Lista de futuros temas para estudar, ordenados na possível ordem em que os abor
 - Mais notas sobre advérbios
 - Tempo verbais (Plusquamperfekt, Futur II)
 - Modos verbais (Indikativ, Konjunktiv, Imperativ)
+- Genitiv
 

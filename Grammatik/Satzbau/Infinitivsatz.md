@@ -23,7 +23,7 @@ Se tratando das Infinitivsatz, há algumas particularidades a se notar:
 2. A primeira parte possui sujeito, segunda parte **não** possui sujeito. É por isso que o verbo está em sua forma base, pois não há sujeito que o conjugue.
 
 Zum Beispiel:
-- Ich fange Bald an, Japanisch zu lernen.
+- Ich fange bald an, Japanisch zu lernen.
   _Em breve começarei a aprender japonês._
 - Bald fängt es an, zu regnen.
   _Logo começará a chover._
@@ -70,7 +70,7 @@ Zum Beispiel:
   _Você tem vontade de assistir um filme?_
 -  Ich habe Angst, die Prüfung nicht zu bestehen.
   _Eu tenho medo de não passar no exame._
-- Paul hat Angst, zu vergasen.
+- Paul hat Angst, zu versagen.
   _Paul tem medo de falhar._
 
 - - -

@@ -27,7 +27,7 @@ Como se pode observar na tabela abaixo, os pronomes relativos no nominativo são
 Nos exemplos abaixo, o pronome relativo substitui e tem a função do sujeito e, por isso, está no nominativo. **Das Subjekt steht immer im Nominativ.**
 - Das ist der Mann, **der** in Berlin lebt.
   _Esse é o homem que vive em Berlim._
-- Das ist die frau, **die** Lisa heißt.
+- Das ist die Frau, **die** Lisa heißt.
   _Essa é a mulher que se chama Lisa._
 - Das ist das Kind, **das** im Garten spielt.
   _Essa é a criança que brinca no parque._
@@ -80,4 +80,4 @@ Para saber se o pronome relativo estará em Dativ, observa-se se há alguma prep
 - Das ist das Kind, dem meine Schwester jeden Abend Geschichten erzählt.
   _Essa é a criança a quem minha irmã conta histórias todas noite._
 - Das sind die Freunde, denen ich meinen Wohnungsschlüssel anvertraue.
-  _Esses são os amigos a quem confio a chafe do meu apartamento._
+  _Esses são os amigos a quem confio a chave do meu apartamento._

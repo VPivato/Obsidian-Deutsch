@@ -10,7 +10,7 @@ Podem ser separados por caso gramatical, e as mais importantes são:
 - bei dem > **beim**
 - von dem > **vom**
 - zu dem > **zum**
-- zu der > **zur//
+- zu der > **zur**
 
 ### Kontraktionen mit Akkusativ
 - an das > **ans**

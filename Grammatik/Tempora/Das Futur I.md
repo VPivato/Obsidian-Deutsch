@@ -44,5 +44,5 @@ Ao usar Futur I com [[Modalverben|Verbos Modais]], „werden“ é conjugado na 
 Zum Beispiel:
 - Ich werde bald ein Auto kaufen können.
   _Eu serei capaz de comprar um carro em breve._
-- Wirst du morgen länger arbeiten müssen.
+- Wirst du morgen länger arbeiten müssen. 
   _Você terá que trabalhar por mais tempo amanhã._

@@ -23,8 +23,8 @@ Vocabulário principal:
 | Die Kinder        | Filhos <small>(masc. e fem.)</small> |
 | Enkel             | Neto                                 |
 | Enkelin           | Neta                                 |
-| Nichte            | Sobrinho                             |
-| Neffe             | Sobrinha                             |
+| Nichte            | Sobrinha                             |
+| Neffe             | Sobrinho                             |
 | Zwilling          | Gêmeo                                |
 
 - - -

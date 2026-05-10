@@ -25,5 +25,5 @@ Oder:
   _De quem vocês falam?_
 - Wir sprechen über Peter.
   _Nós falamos sobre Peter._
-- Über ihn spricht gerade de ganze Welt
+- Über ihn spricht gerade die ganze Welt
   _O mundo inteiro está falando sobre ele._
